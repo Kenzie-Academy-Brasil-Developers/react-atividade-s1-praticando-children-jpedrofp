@@ -1,0 +1,28 @@
+.Center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  
+    width: 200px;
+    height: 120px;
+  
+    background-color: #00e278;
+  
+    margin: 10px;
+  
+    box-shadow: 10px 10px 5px -4px rgba(0, 0, 0, 0.69);
+    -webkit-box-shadow: 10px 10px 5px -4px rgba(0, 0, 0, 0.69);
+    -moz-box-shadow: 10px 10px 5px -4px rgba(0, 0, 0, 0.69);
+  }
+  
+  .Center:hover {
+    filter: brightness(0.88);
+    cursor: pointer;
+  }
+  
+  .Kindergarden {
+    display: flex;
+    justify-content: center;
+  }
+  
